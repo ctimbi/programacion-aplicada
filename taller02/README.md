@@ -1,4 +1,6 @@
-Repositorio de practias y talleres de la asignatura de Progamación Aplicada
+Repositorio de practias y talleres de la asignatura de ProgamaciÃ³n Aplicada
 
-Carrera de Computación
-Universidad Politécnica Salesiana
+Enunciado Taller 02
+
+Carrera de ComputaciÃ³n
+Universidad PolitÃ©cnica Salesiana
