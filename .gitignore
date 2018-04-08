@@ -5,6 +5,7 @@
 tomcat
 .metadata
 .recommenders
+.gitignore
 
 #
 # Default excludes
