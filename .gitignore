@@ -4,6 +4,8 @@
 
 tomcat
 .metadata
+.recommenders
+.gitignore
 
 #
 # Default excludes
@@ -36,6 +38,7 @@ target/
 .settings/
 .classpath
 .project
+bin/
 
 # NetBeans specific
 nbproject/private/
